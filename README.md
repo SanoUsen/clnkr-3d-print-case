@@ -15,6 +15,8 @@ You can buy them on ebay or something like that, or you can make them yourself.
 
 - 4 pieces rubber feet, max. 12 diameter
 
+- and of course a clunker pcb from the clunker keyboard kit ^^
+
 The holes in the top case have the respective core hole diameters for the screws. 
 By screwing in the screws, the thread is turned.
 I recommend doing this carefully so that the screws do not overtighten or break the hole instead.

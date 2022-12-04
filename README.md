@@ -1,5 +1,5 @@
 # clnkr-3d-print-case
-HI, this is my first Upload on github i hope you enjoy my new designed Case for the Clunker
+HI, this is my first Upload on github i hope you enjoy my new designed Case for the Clunker "Typing Angle is 6 degree"
 To assemble the case you need:
 
 - 2 pieces hexagon socket screw M3x8 or 10mm (see picture)
@@ -16,7 +16,7 @@ You can buy them on ebay or something like that, or you can make them yourself.
 
 The holes in the top case have the respective core hole diameters for the screws. 
 By screwing in the screws, the thread is turned.
-I recommend doing this carefully so that the screws do not overtighten.
+I recommend doing this carefully so that the screws do not overtighten or break the hole instead.
 
 
 If the thread no longer lifts, for example due to wear, 

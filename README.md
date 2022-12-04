@@ -28,3 +28,5 @@ You have two different tops to choose from: see Imgur link
 the Top-Clnkr, the lettering goes through the top.
 
 the Top-Clnkr_Letters you can have the lettering printed in a colour of your choice. You will need the letters stl file for this.
+
+For the plates, stl and dxf are available. I have created a plate for each bottom row.

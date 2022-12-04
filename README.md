@@ -23,3 +23,8 @@ If the thread no longer lifts, for example due to wear,
 you can buy threaded sleeves on Amazon or ebay and carefully insert them with the help of a soldering iron. 
 Before doing this, I recommend drilling out the holes to the approximate diameter of the threaded sleeve.
 
+You have two different tops to choose from: see Imgur link
+
+the Top-Clnkr, the lettering goes through the top.
+
+the Top-Clnkr_Letters you can have the lettering printed in a colour of your choice. You will need the letters stl file for this.
